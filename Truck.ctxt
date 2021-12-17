@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Truck
+comment1.params=model\ maxSpeed\ numOfSeats\ capacity\ isOn\ gear
+comment1.target=Truck(java.lang.String,\ int,\ int,\ java.lang.String,\ boolean,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getCapacity()
+comment3.params=capacity
+comment3.target=void\ setCapacity(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ display()
+numComments=5

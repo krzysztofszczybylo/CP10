@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Bus
+comment1.params=model\ maxSpeed\ numOfSeats\ standPlaces\ isOn\ gear
+comment1.target=Bus(java.lang.String,\ int,\ int,\ int,\ boolean,\ java.lang.String)
+comment2.params=
+comment2.target=double\ getStandPlaces()
+comment3.params=standPlaces
+comment3.target=void\ setStandPlaces(double)
+comment4.params=
+comment4.target=double\ countPercentage()
+comment5.params=
+comment5.target=java.lang.String\ display()
+numComments=6

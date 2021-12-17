@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SMS
+comment1.params=recipient\ text
+comment1.target=SMS(User,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ send()
+numComments=3
